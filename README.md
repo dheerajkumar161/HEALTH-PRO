@@ -165,7 +165,6 @@ MySQL
 
    B.Tech 3nd Year CSE Department Batch, Indian Institute of Information Technology, Surat.
 
-   Instagram - ( https://www.instagram.com/sri_bangaru_568/ )
 
 
 
@@ -174,7 +173,7 @@ MySQL
 
    B.Tech 2nd Year ECE Department Batch, Indian Institute of Information Technology, Surat.
 
-   Instagram - ( https://www.instagram.com/surendhar__rathod/ )
+
 
 
 
@@ -183,16 +182,15 @@ MySQL
 
    B.Tech 3nd Year ECE Department Batch, Indian Institute of Information Technology, Surat.
 
-   Instagram - ( https://www.instagram.com/iammanojrathod/ )
 
 
 
    
-   Dheeraj Kumar - Jr Frontend Developer
+   Dheeraj Kumar 
 
    B.Tech 2nd Year ECE Department Batch, Indian Institute of Information Technology, Surat.
 
-   Instagram - ( https://www.instagram.com/dheerajkumar_45/ )
+
 
 
 -------------------------------------------------------
